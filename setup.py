@@ -29,7 +29,7 @@ setup(
     version=__version__,
     author=__author__,
     description="Django URL Filter provides a safe way to filter data via human-friendly URLs.",
-    long_description="\n\n".join([readme, history, authors, licence]),
+    long_description="",
     url="https://github.com/miki725/django-url-filter",
     license="MIT",
     packages=find_packages(exclude=["test_project*", "tests*"]),
