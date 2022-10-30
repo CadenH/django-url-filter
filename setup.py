@@ -25,7 +25,7 @@ requirements = req + ["setuptools"]
 test_requirements = req + dev_req
 
 setup(
-    name="django-url-filter",
+    name="django-url-filter-fix",
     version=__version__,
     author=__author__,
     description="Django URL Filter provides a safe way to filter data via human-friendly URLs.",
